@@ -1,0 +1,28 @@
+{
+	"snippetsAyuda": {
+	  "prefix": "ayuda",
+	  "scope": "html,css",
+	  "body": [
+		"Escribe el prefijo del snippet y presiona Tab para insertarlo:",
+		"",
+		"- etiquetas → Insertará los comentarios sobre etiquetas HTML.",
+		"- tablas → Insertará código de tablas y estilos CSS.",
+		"- listas → Insertará listas HTML y estilos CSS.",
+		"- formulario → Insertará etiquetas de formularios HTML.",
+		"- formEjemplo → Insertará un formulario HTML completo.",
+		"- css → Insertará una guía de propiedades CSS.",
+		"- tabla1 → tabla general.",
+		"- tabla2 → tabla general2.",
+		"- formulario1→ tabla general.",
+		"- rowspan→ tabla generowspan.",
+		"- tablatocha tabla tocha.",
+		"- menu_lateral menu lateral.",
+		"- css_menu_lateral menu lateral2."
+
+		
+	  ],
+	  "description": "Muestra una lista de los atajos de snippets disponibles"
+	},
+
+	
+  }
